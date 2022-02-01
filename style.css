@@ -651,7 +651,8 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    /* Modification de la couleur pour obtenir un meilleur contraste */
+    color: #1C1C1C!important;
 }
 
 .container {
@@ -676,8 +677,9 @@ a {
     margin: auto auto auto auto;
 }
 
+/* Modification de la taille de police à 13px */
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -735,8 +737,9 @@ h4 {
     margin-top: 24px;
 }
 
+/* Modification de la couleur pour avoir un meilleur contraste */
 .white {
-    color: #FFFFFF!important;
+    color: #1F1F1F!important;
 }
 
 .portfolio-thumb {
@@ -774,18 +777,21 @@ h4 {
     background-color: #F3976C;
 }
 
+/* Modification de la couleur de texte pour améliorer le contraste */
 .tc-white {
-    color: #F3976C!important;
+    color: #FADDD6!important;
 }
 
+
+/* Modification de la couleur de texte pour améliorer le contraste */
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #1F1F1F!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #1F1F1F!important;
 }
 
 .ltc-white {
