@@ -655,6 +655,10 @@ a {
     color: #1C1C1C!important;
 }
 
+h1{
+    background-color: black;
+}
+
 .container {
     max-width: 1000px;
 }
