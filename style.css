@@ -779,7 +779,7 @@ h4 {
 
 /* Modification de la couleur de texte pour améliorer le contraste */
 .tc-white {
-    color: #FADDD6!important;
+    color: #FCB33E !important;
 }
 
 .tc-contraste{
@@ -789,12 +789,12 @@ h4 {
 
 /* Modification de la couleur de texte pour améliorer le contraste */
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #FCB33E;
     color: #1F1F1F!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #FDCC70 !important;
     color: #1F1F1F!important;
 }
 
