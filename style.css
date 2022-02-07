@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.webp");
+    /* background: url("img/texture-paper.webp"); */
     background-size: 280px 280px;
 }
 
@@ -655,8 +655,13 @@ a {
     color: #1C1C1C!important;
 }
 
-h1{
+.accueil h1{
     background-color: black;
+}
+
+.h2-contraste {
+    background-color: black;
+    color: white;
 }
 
 .container {
