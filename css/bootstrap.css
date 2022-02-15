@@ -3696,7 +3696,7 @@ textarea.input-lg {
 .btn:focus,
 .btn:hover {
     color: #333;
-    text-decoration: none
+    text-decoration: underline;
 }
 
 .btn.active,
@@ -4854,7 +4854,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
 .nav>li>a:focus,
 .nav>li>a:hover {
-    text-decoration: none;
+    text-decoration: underline;
     background-color: #eee
 }
 
